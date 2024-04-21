@@ -49,7 +49,7 @@ yarn run dev
 - [Arbitrum Sepolia Testnet](https://sepolia.arbiscan.io/address/0x7aD0A9dB054101be9428fa89bB1194506586D1aD)
 - [OP Avail Sepolia Testnet](https://op-avail-sepolia-explorer.alt.technology/address/0x66E1e28A6E6BD3a4c30a53C964e65ADa11Cf9EB8)
 
-## Contract Addresses (Chaido Testnet)
+## Contract Addresses (Chiado Testnet)
 
 1. UserSide.sol: - ```0xb7c2450D138905549F0d2c1548691776006D31C6```
 

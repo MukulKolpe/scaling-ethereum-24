@@ -47,7 +47,7 @@ export default function Navbar() {
             color="brand.00"
           >
             <Link as={RouterLink} to="/">
-              ScalingEthereum
+            GnosisSocial
             </Link>
           </HStack>
           <Flex alignItems={"center"}>

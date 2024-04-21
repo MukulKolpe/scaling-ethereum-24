@@ -43,6 +43,12 @@ yarn
 yarn run dev
 ```
 
+## Verified Contracts:
+
+- [Gnosis Chiado Testnet](https://gnosis-chiado.blockscout.com/address/0xE2E3899AcAD6c4F6F1db0702D49d8dA75AE813bb)
+- [Arbitrum Sepolia Testnet](https://sepolia.arbiscan.io/address/0x7aD0A9dB054101be9428fa89bB1194506586D1aD)
+- [OP Avail Sepolia Testnet](https://op-avail-sepolia-explorer.alt.technology/address/0x66E1e28A6E6BD3a4c30a53C964e65ADa11Cf9EB8)
+
 ## Contract Addresses (Chaido Testnet)
 
 1. UserSide.sol: - ```0xb7c2450D138905549F0d2c1548691776006D31C6```
@@ -58,8 +64,3 @@ yarn run dev
 6. Airdrop.sol: - ```0xf31601A7dD77AdAb6582B466F26cA874C4A64015```
 
 
-## Verified Contracts:
-
-- [Gnosis Chiado Testnet](https://gnosis-chiado.blockscout.com/address/0xE2E3899AcAD6c4F6F1db0702D49d8dA75AE813bb)
-- [Arbitrum Sepolia Testnet](https://sepolia.arbiscan.io/address/0x7aD0A9dB054101be9428fa89bB1194506586D1aD)
-- [OP Avail Sepolia Testnet](https://op-avail-sepolia-explorer.alt.technology/address/0x66E1e28A6E6BD3a4c30a53C964e65ADa11Cf9EB8)
